@@ -1,18 +1,15 @@
-# Advanced Keylogger
+ # Advanced Keylogger
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/787260295860191254/1005556601823952946/logo.png" width=450/> </p>
 
 Introduction
-
 A keylogger (short for keystroke logger) is a tool that records the keys pressed on a keyboard. Depending on how it is implemented, it can log simple keystrokes, capture clipboard data, take screenshots, or even track internet activity.
 
-While the term "keylogger" is often linked with malicious intent, it is important to understand that the same technology can also serve legitimate purposes. For example:
+While the term "keylogger" is often linked with malicious intent, it is important to understand that the same technology can also serve legitimate purposes. 
 
+For example:
 In organizations, employers sometimes monitor employee devices for security compliance.
-
 In research, keyloggers are studied to understand cybersecurity vulnerabilities.
-
 Parents may use monitoring software to protect children online.
-
 This project demonstrates how such software works, purely for learning and awareness.
 
 
@@ -21,7 +18,8 @@ Types of Keyloggers
 
 1. Software-Based Keyloggers
 
-Software keyloggers are programs that run on the operating system. Their abilities may include:
+Software keyloggers are programs that run on the operating system. 
+Their abilities may include:
 
 Recording keystrokes typed by the user.
 
@@ -35,11 +33,12 @@ These keyloggers can be hidden in the background and often disguise themselves a
 
 2. Hardware-Based Keyloggers
 
-These are physical devices placed between the keyboard and the computer. Features include:
+These are physical devices placed between the keyboard and the computer. 
+Features include:
 
 Work immediately when the system is turned on (no software needed).
 
-Cannot usually be detected by antivirus software.
+It cannot usually be detected by antivirus software.
 
 Storage capacity can vary from a few KB to several GB/TB, depending on the model.
 
@@ -52,7 +51,7 @@ Detecting and Removing Keyloggers
 
 Keyloggers are designed to stay hidden, but some signs may include:
 
-A delay between typing and text appearing on the screen.
+A delay between typing and the text appearing on the screen.
 
 Mouse lag or unresponsive applications.
 
@@ -63,7 +62,7 @@ Decrease in browsing speed or sudden crashes.
 
 
 
-To defend against them:
+To defend against them
 
 Use antivirus/anti-malware tools capable of detecting hidden processes.
 
@@ -74,7 +73,7 @@ Watch for unknown hardware devices connected to your computer.
 
 
 
-🛡️ Preventive Measures
+Preventive Measures
 
 Here are some safe practices to reduce the risk of being affected by a keylogger:
 
@@ -87,19 +86,13 @@ Check email attachments – Do not open files from untrusted or unexpected sourc
 Use strong passwords – Make them long, unique, and change them regularly.
 
 Enable two-factor authentication (2FA) – Adds an extra layer of protection even if a password is stolen.
-
-Run security software – Keep a reliable antivirus/anti-malware solution active at all times.
-
-
-
-
  Ethical Use & Awareness
 
 It is important to highlight that keyloggers can be used both ethically and unethically.
 
 Ethical use includes testing, learning, parental monitoring, and corporate security policies.
 
-Unethical use involves stealing information, spying, or unauthorized surveillance, which is illegal and punishable under law.
+Unethical use involves stealing information, spying, or unauthorized surveillance, which is illegal and punishable under the law.
 
 This project is strictly for educational purposes to help understand how attackers exploit such tools and how users can protect themselves.
 
@@ -122,7 +115,9 @@ Gain awareness of the legal and ethical aspects of monitoring tools.
 
 
 
+
 Disclaimer
 
 This repository is created solely for learning and cybersecurity awareness.
 The author does not support or encourage the illegal use of this software. Any misuse of the code is the sole responsibility of the user.
+
